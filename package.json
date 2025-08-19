@@ -1,0 +1,22 @@
+{
+  "name": "ljcest-secretrepo",
+  "version": "1.0.0",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljcest/SecretRepo.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "ljcest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljcest/SecretRepo/issues"
+  },
+  "homepage": "https://github.com/ljcest/SecretRepo#readme"
+}
